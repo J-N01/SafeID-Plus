@@ -35,7 +35,7 @@ Si falta alguna, te pregunta si querés instalarlas automáticamente con `pip`.
 
 Convierte uno o varios PDFs en PNGs (una imagen por página) y crea también la carpeta donde se guardaran los PNG protegidos de Safe ID.
 
-Por cada PDF `NombreDelPdf.pdf` se crean:
+Por cada PDF se crean:
 
 - Carpeta con PNG originales:
   - `NombreDelPdf PNG´s/`
@@ -45,7 +45,7 @@ Por cada PDF `NombreDelPdf.pdf` se crean:
     - etc.
 - Carpeta para PNG protegidos:
   - `NombreDelPdf SafeID/`  
-    (vacía al principio, es donde se guardaran los pngs protejidos que se descarguen de Safe ID)
+    (vacía al principio, es donde se guardaran los pngs protegidos que se descarguen de Safe ID)
 
 #### Uso
 
