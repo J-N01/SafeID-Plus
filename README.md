@@ -131,4 +131,4 @@ No importa cómo los nombre el navegador al descargar; el script los ordena de f
 - Los PDFs originales y los PNG originales (`NombreDelPdf PNG´s/`) no se modifican.
 
 
-## "Este script fue inspirado en https://github.com/Xyborg/datosargentinos.com"
+## "Este script fue diseñado para la siguiente herramienta: https://github.com/Xyborg/datosargentinos.com"
