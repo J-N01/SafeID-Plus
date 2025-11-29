@@ -15,7 +15,7 @@ Herramienta para automatizar parte del proceso de uso de la herramienta [Safe ID
 - Python 3.8 o superior.
 - Acceso a `pip` para instalar dependencias.
 - Librerías de Python:
-  - [`pymupdf`](https://pypi.org/project/PyMuPDF/) (se importa como `fitz`)
+  - [`pymupdf`](https://pypi.org/project/PyMuPDF/)
   - [`Pillow`](https://pypi.org/project/Pillow/)
 
 El script verifica si estas librerías están instaladas.  
