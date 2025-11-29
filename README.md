@@ -74,7 +74,7 @@ El script:
 #### Uso
 
   ```bash
-  python safeidplus.py pre "C:\Ruta\A\La\Carpeta\NombreDelPdf SafeID"
+  python safeidplus.py post "C:\Ruta\A\La\Carpeta\NombreDelPdf SafeID"
   ```
 #Durante la ejecución, para cada carpeta:
 
