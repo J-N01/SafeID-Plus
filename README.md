@@ -115,10 +115,10 @@ Reglas para obtener `NombreDelPdf` a partir del nombre de la carpeta:
 
 El orden de páginas se calcula con un “orden natural” de nombres tipo:
 
-- `example.png`
-- `example (1).png`
-- `example (2).png`
-- `example (10).png`
+- `foto.png`
+- `foto (1).png`
+- `foto (2).png`
+- `foto (3).png`
 
 No importa cómo los nombre el navegador al descargar; el script los ordena de forma lógica antes de renombrar y armar el PDF.
 
