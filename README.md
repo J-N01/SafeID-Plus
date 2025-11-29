@@ -79,7 +79,7 @@ El script:
 #Durante la ejecución, para cada carpeta:
 
 1. El script infiere los nombres en base al `NombreDelPdf`.
-2. Te pregunta una palabra clave (podés dejarla vacía), es algo que se elige por cada carpeta (ej.: `banco`, `afip`, `clienteX`).
+2. Te pregunta una palabra clave (podés dejarla vacía), es algo que se elige por cada carpeta (ej.: `banco`, `arca`, `clienteX`).
 3. Renombra y normaliza todos los PNG a:
    - `NombreDelPdf[_PalabraClave]_protegido_pageXX.png`
 4. Genera el PDF:
