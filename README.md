@@ -1,5 +1,5 @@
 # SafeID-Plus
-Herramienta para automatizar parte del proceso de uso de la herramienta [Safe ID](https://safeid.datosargentinos.com/):
+Script para automatizar parte del proceso de uso de la herramienta [Safe ID](https://safeid.datosargentinos.com/):
 
 - Convierte PDFs a PNGs para subir a Safe ID.
 - Crea automáticamente carpetas para:
